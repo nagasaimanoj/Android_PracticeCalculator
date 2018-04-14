@@ -1,11 +1,3 @@
 <resources>
     <string name="app_name">Practice Calculator</string>
-    <string name="etFirstNumber">First Number</string>
-    <string name="etSecondNumber">Second Number</string>
-    <string name="btnAdd">ADD</string>
-    <string name="btnSub">SUB</string>
-    <string name="btnMul">MUL</string>
-    <string name="btnDiv">DIV</string>
-    <string name="tvResult">Enter values and choose operation</string>
-    <string name="btnClear">CLEAR</string>
 </resources>
